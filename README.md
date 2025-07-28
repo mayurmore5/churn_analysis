@@ -120,8 +120,7 @@ Based on the analysis, the following strategic recommendations are proposed to m
 
 For any questions or collaborations, feel free to reach out:
 
-* **Your Name:** [Your Full Name]
-* **LinkedIn:** [Link to your LinkedIn Profile]
-* **Email:** [Your Email Address]
+* **Your Name:** Mayur More
+* **Email:** mayuraikido@gmail.com
 
 ---
